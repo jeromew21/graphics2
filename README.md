@@ -25,3 +25,7 @@ Tested in Python 3.6
 ## Additional features
 
 - Set icon
+
+## Documentation
+
+See original documentation [here](http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf). TODO: Document extra features.
