@@ -4,20 +4,20 @@ Being a big fan of clean APIs and good abstraction, [graphics.py](http://mcsp.wa
 
 ## Motivation
 
-Graphics is *lovely*, but lacking in performance (it uses Tkinter as a backend). graphics2 uses [pygame](https://www.pygame.org/news) instead.
+Graphics is *lovely*, but can be lacking in performance (it uses Tkinter as a backend). graphics2 uses [pygame](https://www.pygame.org/news) instead.
 
 ## Usage
 
 ### Just swap in graphics2 wherever you use graphics
 
-The API is identical (will be when this is completed), so you can simply drop this file in your project and import it instead.
+The API is completely compatible (will be when this is completed), so you can simply drop this file in your project and import it instead.
 
 ### Installation
 
 Requires [pygame](https://www.pygame.org/news)
 
 ```
-pip3 install pygame
+pip install pygame
 ```
 
 Tested in Python 3.6
