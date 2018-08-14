@@ -29,10 +29,11 @@ Tested in Python 3.6
 ## Drawbacks
 
 - Pygame dependency. Pygame is a somewhat heavy library and pulls dependencies itself.
-- Font rendering is somewhat inferior.
-- Slow startup time
+- Font rendering in Pygame leaves something to be desired
 - Threaded event loop requires blocking pauses, causing overhead and performance degradation
+- Slow startup time, related to ^
 - Can't get animations to be very smooth, any help?
+- Poorly rendered curved shapes, should use gfxdraw (TODO)
 
 ## Documentation
 
