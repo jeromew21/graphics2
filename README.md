@@ -31,9 +31,11 @@ Tested in Python 3.6
 - Pygame dependency. Pygame is a somewhat heavy library and pulls dependencies itself.
 - Font rendering is somewhat inferior.
 - Slow startup time
-- Threaded event loop requires blocking pauses causing overhead and degrading performance
+- Threaded event loop requires blocking pauses, causing overhead and performance degradation
 - Can't get animations to be very smooth, any help?
 
 ## Documentation
 
-See original documentation [here](http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf). TODO: Document extra features.
+See original documentation [here](http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf). 
+
+TODO: Add/Document extra features.
