@@ -26,6 +26,11 @@ Tested in Python 3.6
 
 - Set icon
 
+## Drawbacks
+
+- Pygame dependency. Pygame is a somewhat heavy library and pulls dependencies itself.
+- Font rendering is somewhat inferior.
+
 ## Documentation
 
 See original documentation [here](http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf). TODO: Document extra features.
