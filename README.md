@@ -30,6 +30,7 @@ Tested in Python 3.6
 
 - Pygame dependency. Pygame is a somewhat heavy library and pulls dependencies itself.
 - Font rendering is somewhat inferior.
+- Slow startup time
 
 ## Documentation
 
